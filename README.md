@@ -1,16 +1,12 @@
-### Hi there 👋
+### Objetivo:
+- Novo emprego como desenvolvedora full-stack.
 
-<!--
-**isabellafariar/isabellafariar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Formação:
+- Engenharia Química UFF (2011-2017)
+- Mestrado Engenharia Química (2017-2019)
+- Engenharia de Produção (2018-atual)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiências:
+- Estágio - Dufry Brasil (2019)
+- Assistente Comercial - Dufry Brasil (2019-2020)
+- Estágio - ANP (2020-atual)
