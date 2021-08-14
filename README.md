@@ -1,6 +1,3 @@
-### Objetivo:
-- Novo emprego como desenvolvedora full-stack.
-
 ### Formação:
 - Engenharia Química UFF (2011-2017)
 - Mestrado Engenharia Química (2017-2019)
